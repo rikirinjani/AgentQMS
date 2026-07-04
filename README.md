@@ -39,7 +39,7 @@ This framework builds on existing skills and standards:
 
 | Dependency | Role | Origin |
 |------------|------|--------|
-| **self-harness** | Trace + failure collection. Backbone of clause 9.1 (monitoring) and clause 10.2 (nonconformity). | [lidge-jun/self-harness](https://github.com/lidge-jun/self-harness) |
+| **self-harness** | Trace + failure collection. Backbone of clause 9.1 (monitoring) and clause 10.2 (nonconformity). | [rikirinjani/self-harness](https://github.com/rikirinjani/self-harness) |
 | **spec-driven-development** | Requirements → spec process. Covers clause 8.2 (requirements) and clause 8.3 (design). | [Agent Skills](https://github.com/anthropics/claude-code/tree/main/skills) |
 | **incremental-implementation** | Thin-slice execution pattern. Covers clause 8.5 (production). | [Agent Skills](https://github.com/anthropics/claude-code/tree/main/skills) |
 | **planning-and-task-breakdown** | Work decomposition. Covers clause 8.1 (operational planning). | [Agent Skills](https://github.com/anthropics/claude-code/tree/main/skills) |
@@ -139,7 +139,7 @@ MIT
 
 ## Acknowledgements
 
-- **[lidge-jun/self-harness](https://github.com/lidge-jun/self-harness)** — Execution trace and failure recording infrastructure
+- **[rikirinjani/self-harness](https://github.com/rikirinjani/self-harness)** — Execution trace and failure recording infrastructure
 - **OpenCode Agent Skills** — Skill-based workflow definitions
 - **ISO 9001:2015** — The quality management standard this framework aligns to
 - **oh-my-opencode-slim** — Prompt tuning and agent management layer
