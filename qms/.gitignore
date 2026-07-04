@@ -1,0 +1,5 @@
+# QMS for AI — .gitignore
+records/traces/
+records/verifications/
+capa/closed/
+audit/

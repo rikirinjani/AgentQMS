@@ -1,0 +1,31 @@
+{
+  "$schema": "./review.json",
+  "review_id": "REV-{YYYY}-Q{NN}",
+  "date": "ISO8601",
+  "period_start": "ISO8601",
+  "period_end": "ISO8601",
+  "conductor": "human",
+  "inputs": {
+    "ncrs_opened": 0,
+    "ncrs_closed": 0,
+    "capas_opened": 0,
+    "capas_closed": 0,
+    "traces_total": 0,
+    "failures_total": 0,
+    "verifications_total": 0,
+    "reviews_performed": 0
+  },
+  "quality_objectives": [
+    {
+      "objective": "Trace completeness",
+      "target": "100%",
+      "actual": "",
+      "status": "met|not_met|partial"
+    }
+  ],
+  "findings": [],
+  "decisions": [],
+  "action_items": [],
+  "ncr_summary_link": "",
+  "status": "draft|approved"
+}

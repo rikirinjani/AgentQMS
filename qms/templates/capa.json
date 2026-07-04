@@ -1,0 +1,18 @@
+{
+  "$schema": "./capa.json",
+  "capa_id": "CAPA-{YYYY}-{NNN}",
+  "ncr_ref": "",
+  "trace_id": "",
+  "opened": "ISO8601",
+  "root_cause": "",
+  "action_type": "corrective|preventive",
+  "action_taken": "",
+  "affected_processes": [],
+  "affected_skills": [],
+  "evidence_paths": [],
+  "verified_by": "",
+  "verification_trace_id": "",
+  "verification_note": "",
+  "closed": null,
+  "status": "pending|active|implementing|verifying|closed"
+}

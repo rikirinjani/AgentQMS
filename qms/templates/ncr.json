@@ -1,0 +1,19 @@
+{
+  "$schema": "./ncr.json",
+  "ncr_id": "NCR-{YYYY}-{NNN}",
+  "timestamp": "ISO8601",
+  "trace_id": "",
+  "trigger": "execution_failure|process_violation|role_violation|procedure_gap",
+  "severity": "critical|major|minor|cosmetic",
+  "category": "",
+  "description": "",
+  "agent": "",
+  "role": "",
+  "violation_detail": "",
+  "root_cause": "",
+  "root_cause_method": "5-why|fishbone|doubt-driven|other",
+  "capa_ref": "",
+  "linked_records": [],
+  "status": "open|investigating|correcting|verifying|closed",
+  "closed": null
+}

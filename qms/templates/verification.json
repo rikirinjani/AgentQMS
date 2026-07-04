@@ -1,0 +1,16 @@
+{
+  "$schema": "./verification.json",
+  "ver_id": "VER-{YYYY}-{NNN}",
+  "timestamp": "ISO8601",
+  "trace_id": "",
+  "type": "test|review|audit|inspection",
+  "scope": "slice|feature|system",
+  "result": "pass|fail|conditional_pass",
+  "linked_requirements": [],
+  "linked_tasks": [],
+  "linked_specs": [],
+  "score": null,
+  "findings": [],
+  "reviewer_agent": "",
+  "evidence_path": ""
+}

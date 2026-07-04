@@ -1,0 +1,14 @@
+{
+  "chains": [
+    {
+      "chain_id": "CHAIN-{YYYY}-{NNN}",
+      "requirement": "REQ-001",
+      "spec": "SPEC-001",
+      "tasks": ["T-001"],
+      "commits": [],
+      "test_results": [],
+      "verification": null,
+      "status": "draft|in_progress|verified|broken"
+    }
+  ]
+}

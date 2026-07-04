@@ -1,0 +1,13 @@
+{
+  "$schema": "./requirement.json",
+  "doc_id": "REQ-{YYYY}-{NNN}",
+  "timestamp": "ISO8601",
+  "title": "",
+  "description": "",
+  "source": "human|interview-me|spec",
+  "linked_specs": [],
+  "linked_tasks": [],
+  "clause": "",
+  "author": "",
+  "status": "draft|approved|implementing|verified|closed"
+}
